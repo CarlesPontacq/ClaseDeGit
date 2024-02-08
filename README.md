@@ -1,2 +1,2 @@
 # ClaseDeGit
-Primera clase de Git
+Primera clase de Git! Hello World!
